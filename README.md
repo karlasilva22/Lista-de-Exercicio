@@ -1,1 +1,1 @@
-# treinamentojs
+Lista de Exercício JS
